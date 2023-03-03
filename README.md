@@ -1,4 +1,4 @@
-# Practic ![image](https://user-images.githubusercontent.com/124985840/222676744-5ea1529f-b3d8-4061-a564-df17d0b0ba14.png)
+# Practic https://www.google.com/url?sa=i&url=https%3A%2F%2Fzelenka.guru%2Fthreads%2F4680583%2F&psig=AOvVaw3lZoH8bTPGLTYcyZ4BjTXR&ust=1677920293866000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjsm6iyv_0CFQAAAAAdAAAAABAJ
 
 <a href="BackendApi/BackendApi/Controllers/WeatherForecastController.cs" > Pract1 </a>
 <a href="BackendApi/BackendApi/BackendApi/BackendApi/Controllers.cs" > Pract2 </a>
