@@ -52,7 +52,7 @@
 
 
 # Pract 3
-Проектирование базы данных для API интернет магазина.
+Схема базы данных для API интернет магазина.
 
 ![ПроектированиеБД](https://user-images.githubusercontent.com/124985840/224297506-368d3f6f-bd24-4f1e-a877-e2380b337e30.png)
 
@@ -60,3 +60,6 @@
 
 ![Доска](https://user-images.githubusercontent.com/124985840/224310186-ef523073-a0a2-4cd9-9a01-3ad936f3dbe6.png)
 
+
+Проектирование базы данных для API интернет магазина.
+![СкринБд](https://user-images.githubusercontent.com/124985840/224320124-943d3395-9806-4b13-95d8-4b56f61cabf6.png)
