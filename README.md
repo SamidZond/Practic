@@ -50,3 +50,9 @@
 
 ![Снимок экрана 2023-03-03 112601](https://user-images.githubusercontent.com/124985840/222672202-49ea3618-61db-4600-9625-c744e87bd7d1.png)
 
+
+# Pract 3
+
+![ПроектированиеБД](https://user-images.githubusercontent.com/124985840/224297506-368d3f6f-bd24-4f1e-a877-e2380b337e30.png)
+
+
