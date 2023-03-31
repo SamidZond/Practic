@@ -63,3 +63,6 @@
 
 Проектирование базы данных для API интернет магазина.
 ![СкринБд](https://user-images.githubusercontent.com/124985840/224320124-943d3395-9806-4b13-95d8-4b56f61cabf6.png)
+
+
+![Миграция](https://user-images.githubusercontent.com/124985840/229079413-31e37e71-5422-4396-8fd1-799b43209bed.png)
